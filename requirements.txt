@@ -1,0 +1,20 @@
+# Deep Learning & Vision
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Adversarial Attacks
+torchattacks>=3.5.1
+
+# Data Manipulation & Analysis
+numpy>=1.21.0
+
+# Visualization & Dimensionality Reduction
+matplotlib>=3.4.0
+umap-learn>=0.5.7
+
+# Machine Learning utilities
+scikit-learn>=1.0.0
+scipy>=1.13.0
+
+# Optional: Jupyter environment
+jupyter>=1.0.0
